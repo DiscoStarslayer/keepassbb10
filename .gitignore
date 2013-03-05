@@ -1,0 +1,13 @@
+*.o
+*.a
+*.bar
+.preview*
+.moc
+.obj
+keepassberry
+arm/Makefile
+arm/Makefile.Debug
+arm/Makefile.Release
+x86/Makefile
+x86/Makefile.Debug
+x86/Makefile.Release
